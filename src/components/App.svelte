@@ -1,23 +1,16 @@
 <script>
   import { onMount } from "svelte";
-
+ 
   onMount(async () => {
-    
+    //resize screen
+    //getResize(".main");
+
   });
+
 </script>
 
-  <main>
+   <main>
     <div class="main">
-      <div class="head">
-        <ul>
-          <li class="logo">Skulls & Pixels</li>
-          <li class="description">Art creator in Tezos e ETH block chain</li>
-        </ul>
-      </div>
-      <div class="link-collection">
-        <div>
-
-        </div>
-      </div>
+	sirius draws art
     </div>
 </main>
